@@ -1,6 +1,15 @@
-.Rhistory
-.jar
-.exe
+*.Rhistory
+*.jar
+*.exe
+*-blx.bib
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.run.xml
 
 # Example code in package build process
 *-Ex.R

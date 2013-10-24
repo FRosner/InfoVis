@@ -15,10 +15,10 @@
    width="540.38794"
    height="430.26926"
    xml:space="preserve"
-   sodipodi:docname="cmpg_hmpg.pdf"><metadata
+   sodipodi:docname="cmpg_hmpg.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath136"><path
@@ -57,9 +57,9 @@
      inkscape:window-height="1028"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.4833529"
-     inkscape:cx="446.39069"
-     inkscape:cy="200.72698"
+     inkscape:zoom="2.0977778"
+     inkscape:cx="293.64009"
+     inkscape:cy="277.72422"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -92,12 +92,6 @@
        position="329.87288,357.52118"
        id="guide5557" /><sodipodi:guide
        orientation="1,0"
-       position="376.58898,337.97669"
-       id="guide5559" /><sodipodi:guide
-       orientation="1,0"
-       position="422.35169,326.53601"
-       id="guide5561" /><sodipodi:guide
-       orientation="1,0"
        position="468.5911,321.29237"
        id="guide5563" /><sodipodi:guide
        orientation="1,0"
@@ -121,6 +115,7 @@
      y="113.32238">Honda</tspan></text>
 
 
+
 <text
    id="text42"
    transform="matrix(0,1,1,0,0,0)"
@@ -132,6 +127,7 @@
      style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
      x="66.320686"
      y="150.06422">Toyota</tspan></text>
+
 
 
 <text
@@ -147,6 +143,7 @@
      y="186.80609">Volkswagen</tspan></text>
 
 
+
 <text
    id="text50"
    transform="matrix(0,1,1,0,0,0)"
@@ -158,6 +155,7 @@
      style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
      x="56.554226"
      y="223.54796">Chrysler</tspan></text>
+
 
 
 <text
@@ -173,6 +171,7 @@
      y="333.89008">Nissan</tspan></text>
 
 
+
 <text
    id="text58"
    transform="matrix(0,1,1,0,0,0)"
@@ -184,6 +183,7 @@
      style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
      x="50.937092"
      y="260.23154">Chevrolet</tspan></text>
+
 
 
 <text
@@ -199,6 +199,7 @@
      y="370.57367">Ford</tspan></text>
 
 
+
 <text
    id="text66"
    transform="matrix(0,1,1,0,0,0)"
@@ -210,6 +211,7 @@
      style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
      x="71.316826"
      y="296.9245">BMW</tspan></text>
+
 
 
 <text
@@ -225,6 +227,7 @@
      y="407.26669">Audi</tspan></text>
 
 
+
 <text
    id="text74"
    transform="matrix(0,1,1,0,0,0)"
@@ -236,6 +239,7 @@
      style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
      x="23.039633"
      y="444.00851">Mercedes-Benz</tspan></text>
+
 
 
 <text
@@ -251,6 +255,7 @@
      y="-337.77261">Mileage of Different Vehicle Brands</tspan></text>
 
 
+
 <text
    id="text84"
    transform="scale(1,-1)"
@@ -264,6 +269,7 @@
      y="-8.376277">Vehicle Brand</tspan></text>
 
 
+
 <text
    id="text88"
    transform="matrix(0,1,1,0,0,0)"
@@ -275,6 +281,7 @@
      style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
      x="168.23959"
      y="42.55035">Miles per Gallon</tspan></text>
+
 
 
 <path
@@ -317,6 +324,7 @@
      style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia">0</tspan></text>
 
 
+
 <text
    id="text112"
    transform="scale(1,-1)"
@@ -327,6 +335,7 @@
      y="-147.19113"
      x="61.588326"
      style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia">5</tspan></text>
+
 
 
 <text
@@ -342,6 +351,7 @@
      y="-189.63525">10</tspan></text>
 
 
+
 <text
    id="text120"
    transform="scale(1,-1)"
@@ -353,6 +363,7 @@
      style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
      x="58.162819"
      y="-232.92827">15</tspan></text>
+
 
 
 <text
@@ -368,6 +379,7 @@
      y="-275.19864">20</tspan></text>
 
 
+
 <text
    id="text128"
    transform="scale(1,-1)"
@@ -379,6 +391,7 @@
      style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
      x="58.220711"
      y="-318.5011">25</tspan></text>
+
 
 
 <g
@@ -809,4 +822,40 @@
        inkscape:connector-curvature="0"
        d="m 746.50345,160.42436 3.6,0 3.6,0"
        style="fill:#d4aa00;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-       id="path4780" /></g></g></g></svg>
+       id="path4780" /></g></g><rect
+   style="fill:#d4aa00;fill-opacity:1;stroke:#000000;stroke-width:0.80000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+   id="rect3248"
+   width="13.228393"
+   height="7.8873014"
+   x="375.54504"
+   y="-307.67517"
+   transform="scale(1,-1)" /><text
+   id="text46-1"
+   transform="scale(1,-1)"
+   x="393.08575"
+   y="-300.0441"
+   style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan48-7"
+     sodipodi:role="line"
+     style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="393.08575"
+     y="-300.0441">City</tspan></text>
+<rect
+   style="fill:#71c837;fill-opacity:1;stroke:#000000;stroke-width:0.80000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+   id="rect3248-1"
+   width="13.228392"
+   height="7.8873014"
+   x="375.64166"
+   y="-293.60898"
+   transform="scale(1,-1)" /><text
+   id="text46-1-1"
+   x="392.91272"
+   y="-285.70825"
+   style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"
+   transform="scale(1,-1)"><tspan
+     id="tspan48-7-5"
+     sodipodi:role="line"
+     style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="392.91272"
+     y="-285.70825">Highway</tspan></text>
+</g></svg>

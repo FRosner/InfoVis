@@ -39,6 +39,9 @@ brandTable = table(cars$VehicleBrand)
 frequentBrands = names(sort(brandTable, decreasing=TRUE)[1:10])
 cars_top10 = cars[(cars$VehicleBrand %in% frequentBrands),]
 
+avg_AMPG = aggregate((cars_top10$CMPG+cars_top10$HMPG)/2, by=list(cars_top10$VehicleBrand), FUN=mean)
+var_AMPG = aggregate((cars_top10$CMPG+cars_top10$HMPG)/2, by=list(cars_top10$VehicleBrand), FUN=var)
+var_AMPG$x = sqrt(var_AMPG$x)
 avg_CMPG = aggregate(cars_top10$CMPG, by=list(cars_top10$VehicleBrand), FUN=mean)
 var_CMPG = aggregate(cars_top10$CMPG, by=list(cars_top10$VehicleBrand), FUN=var)
 var_CMPG$x = sqrt(var_CMPG$x)
@@ -46,12 +49,24 @@ avg_HMPG = aggregate(cars_top10$HMPG, by=list(cars_top10$VehicleBrand), FUN=mean
 var_HMPG = aggregate(cars_top10$HMPG, by=list(cars_top10$VehicleBrand), FUN=var)
 var_HMPG$x = sqrt(var_HMPG$x)
 count = aggregate(rep(1,nrow(cars_top10)),by=list(cars_top10$VehicleBrand), FUN=sum)
-mpg_stat_top10 = data.frame(avg_CMPG, var_CMPG$x, avg_HMPG$x, var_HMPG$x, count$x)
-names(mpg_stat_top10) = c("VehicleBrand", "CMPG_Mean", "CMPG_Stdv", "HMPG_Mean", "HMPG_Stdv", "CarCount")
+mpg_stat_top10 = data.frame(avg_CMPG, var_CMPG$x, avg_HMPG$x, var_HMPG$x, avg_AMPG$x, var_AMPG$x, count$x)
+names(mpg_stat_top10) = c("VehicleBrand", "CMPG_Mean", "CMPG_Stdv", "HMPG_Mean", "HMPG_Stdv", "AMPG_Mean", "AMPG_Stdv", "CarCount")
 
-mpg_stat_top10 = mpg_stat_top10[order(mpg_stat_top10$CMPG_Mean, decreasing=TRUE),]
-pdf("fuel-consumption.pdf", width=7, height=5)
-mpg_top10_plot = barplot(mpg_stat_top10$CMPG_Mean, names.arg=mpg_stat_top10$VehicleBrand, las=3, ylim=c(0,25), xlab="Vehicle Brand", ylab="City MPG", main="Mileage of Different Vehicle Brands")
+mpg_stat_top10 = mpg_stat_top10[order(mpg_stat_top10$AMPG_Mean, decreasing=TRUE),]
+pdf("ampg.pdf", width=7, height=5)
+mpg_top10_plot = barplot(mpg_stat_top10$AMPG_Mean, names.arg=mpg_stat_top10$VehicleBrand, las=3, ylim=c(0,25), xlab="Vehicle Brand", ylab="Combined Miles per Gallon", main="Mileage of Different Vehicle Brands")
+error = qnorm(0.975)*mpg_stat_top10$AMPG_Stdv/sqrt(mpg_stat_top10$CarCount)
+error.bar(mpg_top10_plot, mpg_stat_top10$AMPG_Mean, error)
+dev.off()
+
+pdf("cmpg.pdf", width=3.5, height=5)
+mpg_top10_plot = barplot(mpg_stat_top10$CMPG_Mean, names.arg=mpg_stat_top10$VehicleBrand, las=3, ylim=c(0,25), xlab="Vehicle Brand", ylab="City Miles per Gallon", main="Mileage of Different Vehicle Brands")
 error = qnorm(0.975)*mpg_stat_top10$CMPG_Stdv/sqrt(mpg_stat_top10$CarCount)
 error.bar(mpg_top10_plot, mpg_stat_top10$CMPG_Mean, error)
+dev.off()
+
+pdf("hmpg.pdf", width=3.5, height=5)
+mpg_top10_plot = barplot(mpg_stat_top10$HMPG_Mean, names.arg=mpg_stat_top10$VehicleBrand, las=3, ylim=c(0,25), xlab="Vehicle Brand", ylab="Highway Miles per Gallon", main="Mileage of Different Vehicle Brands")
+error = qnorm(0.975)*mpg_stat_top10$HMPG_Stdv/sqrt(mpg_stat_top10$CarCount)
+error.bar(mpg_top10_plot, mpg_stat_top10$HMPG_Mean, error)
 dev.off()

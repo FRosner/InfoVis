@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   width="540.38794"
+   height="430.26926"
+   xml:space="preserve"
+   sodipodi:docname="ampg.svg"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath136"><path
+         d="m 59.04,73.44 414.72,0 0,227.52 -414.72,0 0,-227.52 z"
+         id="path138"
+         inkscape:connector-curvature="0" /></clipPath><clipPath
+       id="clipPath3206"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path3208"
+         d="m 59.04,73.44 414.72,0 0,227.52 -414.72,0 0,-227.52 z" /></clipPath></defs><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1028"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="2.0977778"
+     inkscape:cx="262.93548"
+     inkscape:cy="121.24521"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"><sodipodi:guide
+       orientation="0,1"
+       position="86.628071,125.05453"
+       id="guide3467" /></sodipodi:namedview><g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="fuel-consumption"
+     transform="matrix(1.25,0,0,-1.25,-35.823609,438.39958)"><g
+   id="g12"
+   transform="matrix(0.94089274,0,0,0.94089274,23.956387,37.458008)" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<text
+   id="text80"
+   transform="scale(1,-1)"
+   x="124.0038"
+   y="-337.77261"
+   style="font-size:14.13382053px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia Bold"><tspan
+     id="tspan82"
+     sodipodi:role="line"
+     style="font-size:14.13382053px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia Bold"
+     x="124.0038"
+     y="-337.77261">Mileage of Different Vehicle Brands</tspan></text>
+
+
+
+<text
+   id="text84"
+   transform="scale(1,-1)"
+   x="229.5629"
+   y="-8.376277"
+   style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan86"
+     sodipodi:role="line"
+     style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="229.5629"
+     y="-8.376277">Vehicle Brand</tspan></text>
+
+
+
+<text
+   id="text88"
+   transform="matrix(0,1,1,0,0,0)"
+   x="168.23959"
+   y="42.55035"
+   style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan90"
+     sodipodi:role="line"
+     style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="168.23959"
+     y="42.55035">Combined Miles per Gallon</tspan></text>
+
+
+
+<path
+   inkscape:connector-curvature="0"
+   id="path94"
+   style="fill:none;stroke:#000000;stroke-width:0.70566958;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   d="m 82.706696,106.55718 0,214.07191" /><path
+   inkscape:connector-curvature="0"
+   id="path96"
+   style="fill:none;stroke:#000000;stroke-width:0.70566958;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   d="m 82.706696,106.55718 -6.774428,0" /><path
+   inkscape:connector-curvature="0"
+   id="path98"
+   style="fill:none;stroke:#000000;stroke-width:0.70566958;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   d="m 82.706696,149.36779 -6.774428,0" /><path
+   inkscape:connector-curvature="0"
+   id="path100"
+   style="fill:none;stroke:#000000;stroke-width:0.70566958;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   d="m 82.706696,192.18782 -6.774428,0" /><path
+   inkscape:connector-curvature="0"
+   id="path102"
+   style="fill:none;stroke:#000000;stroke-width:0.70566958;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   d="m 82.706696,234.99844 -6.774428,0" /><path
+   inkscape:connector-curvature="0"
+   id="path104"
+   style="fill:none;stroke:#000000;stroke-width:0.70566958;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   d="m 82.706696,277.81848 -6.774428,0" /><path
+   inkscape:connector-curvature="0"
+   id="path106"
+   style="fill:none;stroke:#000000;stroke-width:0.70566958;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   d="m 82.706696,320.62909 -6.774428,0" /><text
+   id="text108"
+   transform="scale(1,-1)"
+   x="61.293976"
+   y="-103.92178"
+   style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan110"
+     y="-103.92178"
+     x="61.293976"
+     style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia">0</tspan></text>
+
+
+
+<text
+   id="text112"
+   transform="scale(1,-1)"
+   x="61.588326"
+   y="-147.19113"
+   style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan114"
+     y="-147.19113"
+     x="61.588326"
+     style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia">5</tspan></text>
+
+
+
+<text
+   id="text116"
+   transform="scale(1,-1)"
+   x="56.809368"
+   y="-189.63525"
+   style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan118"
+     sodipodi:role="line"
+     style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="56.809368"
+     y="-189.63525">10</tspan></text>
+
+
+
+<text
+   id="text120"
+   transform="scale(1,-1)"
+   x="58.162819"
+   y="-232.92827"
+   style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan122"
+     sodipodi:role="line"
+     style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="58.162819"
+     y="-232.92827">15</tspan></text>
+
+
+
+<text
+   id="text124"
+   transform="scale(1,-1)"
+   x="56.867252"
+   y="-275.19864"
+   style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan126"
+     sodipodi:role="line"
+     style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="56.867252"
+     y="-275.19864">20</tspan></text>
+
+
+
+<text
+   id="text128"
+   transform="scale(1,-1)"
+   x="58.220711"
+   y="-318.5011"
+   style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan130"
+     sodipodi:role="line"
+     style="font-size:11.29071331px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="58.220711"
+     y="-318.5011">25</tspan></text>
+
+
+
+<g
+   id="g3082"
+   transform="translate(-90.086924,83.066171)" /><g
+   id="g3469"
+   transform="translate(-3.1662926,-1.3973173)"
+   style="fill:#de87aa"><path
+     inkscape:connector-curvature="0"
+     d="m 97.61696,107.9452 30.60653,0 0,157.85786 -30.60653,0 0,-157.85786 z"
+     style="fill:#de87aa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.70543641000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+     id="path3086" /><path
+     inkscape:connector-curvature="0"
+     d="m 134.34668,107.9452 30.60654,0 0,140.01501 -30.60654,0 0,-140.01501 z"
+     style="fill:#de87aa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.70543641000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+     id="path3088" /><path
+     inkscape:connector-curvature="0"
+     d="m 171.0764,107.9452 30.60654,0 0,115.55988 -30.60654,0 0,-115.55988 z"
+     style="fill:#de87aa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.70543641000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+     id="path3090" /><path
+     inkscape:connector-curvature="0"
+     d="m 207.80613,107.9452 30.60653,0 0,112.13616 -30.60653,0 0,-112.13616 z"
+     style="fill:#de87aa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.70543641000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+     id="path3092" /><path
+     inkscape:connector-curvature="0"
+     d="m 244.53585,107.9452 30.60653,0 0,109.22036 -30.60653,0 0,-109.22036 z"
+     style="fill:#de87aa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.70543641000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+     id="path3094" /><path
+     inkscape:connector-curvature="0"
+     d="m 281.26558,107.9452 30.60653,0 0,105.712 -30.60653,0 0,-105.712 z"
+     style="fill:#de87aa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.70543641000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+     id="path3096" /><path
+     inkscape:connector-curvature="0"
+     d="m 318.00469,107.9452 30.60653,0 0,103.21945 -30.60653,0 0,-103.21945 z"
+     style="fill:#de87aa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.70543641000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+     id="path3098" /><path
+     inkscape:connector-curvature="0"
+     d="m 354.7344,107.9452 30.60654,0 0,102.72095 -30.60654,0 0,-102.72095 z"
+     style="fill:#de87aa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.70543641000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+     id="path3100" /><path
+     inkscape:connector-curvature="0"
+     d="m 391.46413,107.9452 30.60654,0 0,99.57 -30.60654,0 0,-99.57 z"
+     style="fill:#de87aa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.70543641000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+     id="path3102" /><path
+     inkscape:connector-curvature="0"
+     d="m 428.19386,107.9452 30.60652,0 0,85.76225 -30.60652,0 0,-85.76225 z"
+     style="fill:#de87aa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.70543641000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+     id="path3104" /><g
+     transform="matrix(0.94058182,0,0,0.94058182,27.63767,38.868874)"
+     id="g3202"
+     style="fill:#de87aa"><g
+       clip-path="url(#clipPath3206)"
+       id="g3204"
+       style="fill:#de87aa"><path
+         id="path3210"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 90.67,271.75 0,-60.96"
+         inkscape:connector-curvature="0" /><path
+         id="path3212"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 97.87,271.75 -7.2,0 -7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3214"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 83.47,210.79 7.2,0 7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3216"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 129.72,246.28 0,-47.96"
+         inkscape:connector-curvature="0" /><path
+         id="path3218"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 136.92,246.28 -7.2,0 -7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3220"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 122.52,198.32 7.2,0 7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3222"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 168.77,228.02 0,-63.44"
+         inkscape:connector-curvature="0" /><path
+         id="path3224"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 175.97,228.02 -7.2,0 -7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3226"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 161.57,164.58 7.2,0 7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3228"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 207.82,201.42 0,-17.52"
+         inkscape:connector-curvature="0" /><path
+         id="path3230"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 215.02,201.42 -7.2,0 -7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3232"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 200.62,183.9 7.2,0 7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3234"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 246.87,208.67 0,-38.22"
+         inkscape:connector-curvature="0" /><path
+         id="path3236"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 254.07,208.67 -7.2,0 -7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3238"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 239.67,170.45 7.2,0 7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3240"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 285.93,193.84 0,-16.01"
+         inkscape:connector-curvature="0" /><path
+         id="path3242"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 293.13,193.84 -7.2,0 -7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3244"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 278.73,177.83 7.2,0 7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3246"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 324.98,202.27 0,-38.17"
+         inkscape:connector-curvature="0" /><path
+         id="path3248"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 332.18,202.27 -7.2,0 -7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3250"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 317.78,164.1 7.2,0 7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3252"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 364.03,201.65 0,-38"
+         inkscape:connector-curvature="0" /><path
+         id="path3254"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 371.23,201.65 -7.2,0 -7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3256"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 356.83,163.65 7.2,0 7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3258"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 403.08,190.08 0,-21.56"
+         inkscape:connector-curvature="0" /><path
+         id="path3260"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 410.28,190.08 -7.2,0 -7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3262"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 395.88,168.52 7.2,0 7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3264"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 442.13,175.26 0,-21.28"
+         inkscape:connector-curvature="0" /><path
+         id="path3266"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 449.33,175.26 -7.2,0 -7.2,0"
+         inkscape:connector-curvature="0" /><path
+         id="path3268"
+         style="fill:#de87aa;stroke:#000000;stroke-width:0.75000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 434.93,153.98 7.2,0 7.2,0"
+         inkscape:connector-curvature="0" /></g></g></g><text
+   id="text38-1"
+   transform="matrix(0,1.0000001,0.99999991,0,0,0)"
+   x="65.652664"
+   y="113.09896"
+   style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan40-4"
+     sodipodi:role="line"
+     style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="65.652664"
+     y="113.09896">Honda</tspan></text>
+<text
+   id="text42-2"
+   transform="matrix(0,1.0000001,0.99999991,0,0,0)"
+   x="66.320686"
+   y="149.84079"
+   style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan44-3"
+     sodipodi:role="line"
+     style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="66.320686"
+     y="149.84079">Toyota</tspan></text>
+<text
+   id="text46-2"
+   transform="matrix(0,1.0000001,0.99999991,0,0,0)"
+   x="39.119476"
+   y="186.58267"
+   style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan48-2"
+     sodipodi:role="line"
+     style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="39.119476"
+     y="186.58267">Volkswagen</tspan></text>
+<text
+   id="text50-1"
+   transform="matrix(0,1.0000001,0.99999991,0,0,0)"
+   x="56.55423"
+   y="223.32454"
+   style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan52-6"
+     sodipodi:role="line"
+     style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="56.55423"
+     y="223.32454">Chrysler</tspan></text>
+<text
+   id="text54-8"
+   transform="matrix(0,1.0000001,0.99999991,0,0,0)"
+   x="64.410667"
+   y="333.66663"
+   style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan56-5"
+     sodipodi:role="line"
+     style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="64.410667"
+     y="333.66663">Nissan</tspan></text>
+<text
+   id="text58-7"
+   transform="matrix(0,1.0000001,0.99999991,0,0,0)"
+   x="50.937115"
+   y="260.00809"
+   style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan60-6"
+     sodipodi:role="line"
+     style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="50.937115"
+     y="260.00809">Chevrolet</tspan></text>
+<text
+   id="text62-1"
+   transform="matrix(0,1.0000001,0.99999991,0,0,0)"
+   x="76.0401"
+   y="370.35025"
+   style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan64-8"
+     sodipodi:role="line"
+     style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="76.0401"
+     y="370.35025">Ford</tspan></text>
+<text
+   id="text66-9"
+   transform="matrix(0,1.0000001,0.99999991,0,0,0)"
+   x="71.316818"
+   y="296.70105"
+   style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan68-2"
+     sodipodi:role="line"
+     style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="71.316818"
+     y="296.70105">BMW</tspan></text>
+<text
+   id="text70-7"
+   transform="matrix(0,1.0000001,0.99999991,0,0,0)"
+   x="76.661102"
+   y="407.0433"
+   style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan72-9"
+     sodipodi:role="line"
+     style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="76.661102"
+     y="407.0433">Audi</tspan></text>
+<text
+   id="text74-5"
+   transform="matrix(0,1.0000001,0.99999991,0,0,0)"
+   x="23.039631"
+   y="443.78513"
+   style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"><tspan
+     id="tspan76-4"
+     sodipodi:role="line"
+     style="font-size:11.29071426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+     x="23.039631"
+     y="443.78513">Mercedes-Benz</tspan></text>
+</g></svg>

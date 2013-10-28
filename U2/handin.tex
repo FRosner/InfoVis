@@ -1,0 +1,102 @@
+\documentclass[a4paper, 11pt]{scrartcl} %scrartcl für kurze Artikel
+
+\usepackage[ngerman]{babel}
+\usepackage[ansinew]{inputenc}
+\usepackage{color}
+% \usepackage{courier} % Monospace/Truetype umstellen
+\usepackage{listings} % zur Codedarstellung
+	\lstset{numbers=left, numberstyle=\tiny, numbersep=8pt, basicstyle=\ttfamily, tabsize=1,
+	keywordstyle=\bfseries, language=SQL, showspaces=false, breaklines=true, showstringspaces=false,
+	frame=none} %[emph={MINUS}, emphstyle=\textbf] um z.B. MINUS zu emphen
+\usepackage{url}
+	%% Define a new 'leo' style for the package that will use a smaller font.
+	\makeatletter
+	\def\url@leostyle{%
+	  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\sf}}}
+	\makeatother
+	%% Now actually use the newly defined style.
+	\urlstyle{leo}
+\usepackage{enumitem} % \begin{enumerate}[label={\alph*)}] \item \end{enumerate} für a) b) c)...
+\renewcommand{\familydefault}{\sfdefault}
+ \usepackage{mathptmx}
+ \usepackage[scaled=.9]{helvet}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{tabularx}
+	\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}} % zentrierte Spalten mit Breitenangabe 
+	\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}} % rechtsbündig mit Breitenangabe 
+\usepackage{ulem}
+	\normalem %stellt emph{} wieder auf kursiv, sonst unterstrichen
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{booktabs}
+
+\usepackage{titlesec}
+\titlespacing{\section}{0pt}{*2.5}{*1.5}
+\titlespacing{\subsection}{0pt}{*2}{*1}
+\titlespacing{\subsubsection}{0pt}{*1}{*0.5}
+
+% \RM 5 macht dann V und \RM 3 macht dann III
+%\newcommand{\RM}[1]{\MakeUppercase{\romannumeral #1{}}}
+
+%%Pagelayout - nur ein Paket gleichzeitig verwenden
+\usepackage{a4wide} %kleinere Seitenränder usw...
+
+%Schriftart http://tu-dresden.de/Members/jan.rudl/latex_win/fonts.pdf
+%\usepackage[T1]{fontenc}
+%\newcommand{\changefont}[3]{
+%\fontfamily{#1} \fontseries{#2} \fontshape{#3} \selectfont}
+
+% \setlength{\tabcolsep}{5pt} %colspan
+% \renewcommand{\arraystretch}{1.3} %rowspan
+
+\usepackage{parskip}
+
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{\textbf{\large{Informationsvisualisierung}}}
+\chead{}
+\rhead{\textbf{\large{Übungsserie 2}}}
+\lfoot{F. Rosner (209211038)}
+\cfoot{}
+\rfoot{Seite \thepage/\pageref{LastPage}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\begin{document}
+
+\subsection*{Aufgabe 2.1}
+
+\begin{center}
+\includegraphics*[width=.825\linewidth, trim=0cm 13.5cm 11.1cm 0cm, clip=true]{mpg_stat_norare}
+\end{center}
+
+\subsection*{Aufgabe 2.2}
+
+Vorverarbeitung:
+\begin{itemize}
+\item Datenbereinigung
+\item Extraktion der zehn häufigsten Marken
+\end{itemize}
+
+Fehlerbalken:
+\begin{itemize}
+\item Konfidenzintervalle $(\alpha = 0.05)$
+\end{itemize}
+
+Ergebnis:
+\begin{itemize}
+\item Honda scheint kraftstoffsparendste Marke
+\item Ergebnis nicht signifikanz
+\end{itemize}
+
+\vspace*{2em}
+\begin{center}
+\includegraphics*[width=1\linewidth]{cmpg_hmpg}
+\end{center}
+
+
+\end{document}

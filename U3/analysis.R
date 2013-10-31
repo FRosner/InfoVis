@@ -21,7 +21,9 @@ Ecos = rep("Not Minivan", nrow(cars))
 Ecos[(cars$Minivan == 1) & (cars$CMPG < MinivanAvg)] = "Not Eco"
 Ecos[cars$Minivan == 1 & cars$CMPG >= MinivanAvg] = "Eco"
 cars$Eco = Ecos
+cars$Type[cars$Eco == "Eco"] = "Eco Minivan"
 
-Type = cars$Type
-Eco = cars$Eco
-qplot(cars$InvoicePrice, cars$Length, colour=Type, shape=Eco, xlab="Invoice Price", ylab="Length")
+svg("EcoMinivans.svg", width=7, height=5)
+p = ggplot(cars, aes(x = InvoicePrice, y=Length, colour=Type)) + geom_point() + theme_bw()
+p + scale_colour_manual(name="Car Type",labels=c("Eco Minivan", "Normal Minivan", "No Minivan"), values=c("green", "blue", "grey"))
+dev.off()

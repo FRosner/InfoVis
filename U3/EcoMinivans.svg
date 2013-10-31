@@ -3025,27 +3025,27 @@
   <text
      xml:space="preserve"
      style="font-size:31.73834419px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
-     x="262.28348"
+     x="244.68341"
      y="354.35507"
      id="text5308"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5310"
-       x="262.28348"
+       x="244.68341"
        y="354.35507"
        style="font-size:12.69533825px">Invoice Price ($)</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:31.73834419px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
      x="-199.67696"
-     y="11.815068"
+     y="16.615068"
      id="text5308-1"
      sodipodi:linespacing="125%"
      transform="matrix(0,-1,1,0,0,0)"><tspan
        sodipodi:role="line"
        id="tspan5310-7"
        x="-199.67696"
-       y="11.815068"
+       y="16.615068"
        style="font-size:12.69533825px">Length (inch)</tspan></text>
   <text
      xml:space="preserve"

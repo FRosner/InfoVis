@@ -4,11 +4,10 @@ library(e1071)
 library(ggplot2)
 
 cars = read.csv("04cars.csv")
-cars$Length = as.numeric(cars$Length)
+cars$Length = as.numeric(as.character(cars$Length))
 cars$VehicleName = as.character(cars$VehicleName)
 cars$CMPG = as.numeric(cars$CMPG)
 
-cars = cars[cars$Pickup == 0,] # Pickups are missing length attribute
 Types = rep("Not Minivan",nrow(cars))
 Types[cars$SUV == 1] = "Not Minivan"
 Types[cars$SportsCar == 1] = "Not Minivan"
@@ -25,5 +24,6 @@ cars$Type[cars$Eco == "Eco"] = "Eco Minivan"
 
 svg("EcoMinivans.svg", width=7, height=5)
 p = ggplot(cars, aes(x = InvoicePrice, y=Length, colour=Type)) + geom_point() + theme_bw()
-p + scale_colour_manual(name="Car Type",labels=c("Eco Minivan", "Normal Minivan", "No Minivan"), values=c("green", "blue", "grey"))
+p = p + scale_x_continuous(breaks=seq(0,200000,10000)) + scale_y_continuous(breaks=seq(0,250,10))
+p + scale_colour_manual(name="Minivan Type",labels=c("Eco", "Normal", "No Minivan"), values=c("limegreen", "lightpink2", "grey89"))
 dev.off()
